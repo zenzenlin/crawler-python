@@ -1,0 +1,1967 @@
+[
+  {
+    "no": "6001001000",
+    "des": "台北市",
+    "n": [
+      {
+        "no": "6001001001",
+        "des": "台北市中正區",
+        "eng": "Zhongzheng District, Taipei City"
+      },
+      {
+        "no": "6001001002",
+        "des": "台北市大同區",
+        "eng": "Datong District, Taipei City"
+      },
+      {
+        "no": "6001001003",
+        "des": "台北市中山區",
+        "eng": "Zhongshan District, Taipei City"
+      },
+      {
+        "no": "6001001004",
+        "des": "台北市松山區",
+        "eng": "Songshan District, Taipei City"
+      },
+      {
+        "no": "6001001005",
+        "des": "台北市大安區",
+        "eng": "Daan District, Taipei City"
+      },
+      {
+        "no": "6001001006",
+        "des": "台北市萬華區",
+        "eng": "Wanhua District, Taipei City"
+      },
+      {
+        "no": "6001001007",
+        "des": "台北市信義區",
+        "eng": "Xinyi District, Taipei City"
+      },
+      {
+        "no": "6001001008",
+        "des": "台北市士林區",
+        "eng": "Shilin District, Taipei City"
+      },
+      {
+        "no": "6001001009",
+        "des": "台北市北投區",
+        "eng": "Beitou District, Taipei City"
+      },
+      {
+        "no": "6001001010",
+        "des": "台北市內湖區",
+        "eng": "Neihu District, Taipei City"
+      },
+      {
+        "no": "6001001011",
+        "des": "台北市南港區",
+        "eng": "Nangang District, Taipei City"
+      },
+      {
+        "no": "6001001012",
+        "des": "台北市文山區",
+        "eng": "Wenshan District, Taipei City"
+      }
+    ],
+    "eng": "Taipei City"
+  },
+  {
+    "no": "6001002000",
+    "des": "新北市",
+    "n": [
+      {
+        "no": "6001002001",
+        "des": "新北市萬里區",
+        "eng": "Wanli District, New Taipei City"
+      },
+      {
+        "no": "6001002002",
+        "des": "新北市金山區",
+        "eng": "Jinshan District, New Taipei City"
+      },
+      {
+        "no": "6001002003",
+        "des": "新北市板橋區",
+        "eng": "Banqiao District, New Taipei City"
+      },
+      {
+        "no": "6001002004",
+        "des": "新北市汐止區",
+        "eng": "Xizhi District, New Taipei City"
+      },
+      {
+        "no": "6001002005",
+        "des": "新北市深坑區",
+        "eng": "Shenkeng District, New Taipei City"
+      },
+      {
+        "no": "6001002006",
+        "des": "新北市石碇區",
+        "eng": "Shiding District, New Taipei City"
+      },
+      {
+        "no": "6001002007",
+        "des": "新北市瑞芳區",
+        "eng": "Ruifang District, New Taipei City"
+      },
+      {
+        "no": "6001002008",
+        "des": "新北市平溪區",
+        "eng": "Pingxi District, New Taipei City"
+      },
+      {
+        "no": "6001002009",
+        "des": "新北市雙溪區",
+        "eng": "Shuangxi District, New Taipei City"
+      },
+      {
+        "no": "6001002010",
+        "des": "新北市貢寮區",
+        "eng": "Gongliao District, New Taipei City"
+      },
+      {
+        "no": "6001002011",
+        "des": "新北市新店區",
+        "eng": "Xindian District, New Taipei City"
+      },
+      {
+        "no": "6001002012",
+        "des": "新北市坪林區",
+        "eng": "Pinglin District, New Taipei City"
+      },
+      {
+        "no": "6001002013",
+        "des": "新北市烏來區",
+        "eng": "Wulai District, New Taipei City"
+      },
+      {
+        "no": "6001002014",
+        "des": "新北市永和區",
+        "eng": "Yonghe District, New Taipei City"
+      },
+      {
+        "no": "6001002015",
+        "des": "新北市中和區",
+        "eng": "Zhonghe District, New Taipei City"
+      },
+      {
+        "no": "6001002016",
+        "des": "新北市土城區",
+        "eng": "Tucheng District, New Taipei City"
+      },
+      {
+        "no": "6001002017",
+        "des": "新北市三峽區",
+        "eng": "Sanxia District, New Taipei City"
+      },
+      {
+        "no": "6001002018",
+        "des": "新北市樹林區",
+        "eng": "Shulin District, New Taipei City"
+      },
+      {
+        "no": "6001002019",
+        "des": "新北市鶯歌區",
+        "eng": "Yingge District, New Taipei City"
+      },
+      {
+        "no": "6001002020",
+        "des": "新北市三重區",
+        "eng": "Sanchong District, New Taipei City"
+      },
+      {
+        "no": "6001002021",
+        "des": "新北市新莊區",
+        "eng": "Xinzhuang District, New Taipei City"
+      },
+      {
+        "no": "6001002022",
+        "des": "新北市泰山區",
+        "eng": "Taishan District, New Taipei City"
+      },
+      {
+        "no": "6001002023",
+        "des": "新北市林口區",
+        "eng": "Linkou District, New Taipei City"
+      },
+      {
+        "no": "6001002024",
+        "des": "新北市蘆洲區",
+        "eng": "Luzhou District, New Taipei City"
+      },
+      {
+        "no": "6001002025",
+        "des": "新北市五股區",
+        "eng": "Wugu District, New Taipei City"
+      },
+      {
+        "no": "6001002026",
+        "des": "新北市八里區",
+        "eng": "Bali District, New Taipei City"
+      },
+      {
+        "no": "6001002027",
+        "des": "新北市淡水區",
+        "eng": "Tamsui District, New Taipei City"
+      },
+      {
+        "no": "6001002028",
+        "des": "新北市三芝區",
+        "eng": "Sanzhi District, New Taipei City"
+      },
+      {
+        "no": "6001002029",
+        "des": "新北市石門區",
+        "eng": "Shimen District, New Taipei City"
+      }
+    ],
+    "eng": "New Taipei City"
+  },
+  {
+    "no": "6001003000",
+    "des": "宜蘭縣",
+    "n": [
+      {
+        "no": "6001003001",
+        "des": "宜蘭縣宜蘭市",
+        "eng": "Yilan City, Yilan County"
+      },
+      {
+        "no": "6001003002",
+        "des": "宜蘭縣頭城鎮",
+        "eng": "Toucheng Township, Yilan County"
+      },
+      {
+        "no": "6001003003",
+        "des": "宜蘭縣礁溪鄉",
+        "eng": "Jiaoxi Township, Yilan County"
+      },
+      {
+        "no": "6001003004",
+        "des": "宜蘭縣壯圍鄉",
+        "eng": "Zhuangwei Township, Yilan County"
+      },
+      {
+        "no": "6001003005",
+        "des": "宜蘭縣員山鄉",
+        "eng": "Yuanshan Township, Yilan County"
+      },
+      {
+        "no": "6001003006",
+        "des": "宜蘭縣羅東鎮",
+        "eng": "Luodong Township, Yilan County"
+      },
+      {
+        "no": "6001003007",
+        "des": "宜蘭縣三星鄉",
+        "eng": "Sanxing Township, Yilan County"
+      },
+      {
+        "no": "6001003008",
+        "des": "宜蘭縣大同鄉",
+        "eng": "Datong Township, Yilan County"
+      },
+      {
+        "no": "6001003009",
+        "des": "宜蘭縣五結鄉",
+        "eng": "Wujie Township, Yilan County"
+      },
+      {
+        "no": "6001003010",
+        "des": "宜蘭縣冬山鄉",
+        "eng": "Dongshan Township, Yilan County"
+      },
+      {
+        "no": "6001003011",
+        "des": "宜蘭縣蘇澳鎮",
+        "eng": "Suao Township, Yilan County"
+      },
+      {
+        "no": "6001003012",
+        "des": "宜蘭縣南澳鄉",
+        "eng": "Nanao Township, Yilan County"
+      }
+    ],
+    "eng": "Yilan County"
+  },
+  {
+    "no": "6001004000",
+    "des": "基隆市",
+    "n": [
+      {
+        "no": "6001004001",
+        "des": "基隆市仁愛區",
+        "eng": "Renai District, Keelung City"
+      },
+      {
+        "no": "6001004002",
+        "des": "基隆市信義區",
+        "eng": "Xinyi District, Keelung City"
+      },
+      {
+        "no": "6001004003",
+        "des": "基隆市中正區",
+        "eng": "Zhongzheng District, Keelung City"
+      },
+      {
+        "no": "6001004004",
+        "des": "基隆市中山區",
+        "eng": "Zhongshan District, Keelung City"
+      },
+      {
+        "no": "6001004005",
+        "des": "基隆市安樂區",
+        "eng": "Anle District, Keelung City"
+      },
+      {
+        "no": "6001004006",
+        "des": "基隆市暖暖區",
+        "eng": "Nuannuan District, Keelung City"
+      },
+      {
+        "no": "6001004007",
+        "des": "基隆市七堵區",
+        "eng": "Qidu District, Keelung City"
+      }
+    ],
+    "eng": "Keelung City"
+  },
+  {
+    "no": "6001005000",
+    "des": "桃園市",
+    "n": [
+      {
+        "no": "6001005001",
+        "des": "桃園市中壢區",
+        "eng": "Zhongli District, Taoyuan City"
+      },
+      {
+        "no": "6001005002",
+        "des": "桃園市平鎮區",
+        "eng": "Pingzhen District, Taoyuan City"
+      },
+      {
+        "no": "6001005003",
+        "des": "桃園市龍潭區",
+        "eng": "Longtan District, Taoyuan City"
+      },
+      {
+        "no": "6001005004",
+        "des": "桃園市楊梅區",
+        "eng": "Yangmei District, Taoyuan City"
+      },
+      {
+        "no": "6001005005",
+        "des": "桃園市新屋區",
+        "eng": "Xinwu District, Taoyuan City"
+      },
+      {
+        "no": "6001005006",
+        "des": "桃園市觀音區",
+        "eng": "Guanyin District, Taoyuan City"
+      },
+      {
+        "no": "6001005007",
+        "des": "桃園市桃園區",
+        "eng": "Taoyuan District, Taoyuan City"
+      },
+      {
+        "no": "6001005008",
+        "des": "桃園市龜山區",
+        "eng": "Guishan District, Taoyuan City"
+      },
+      {
+        "no": "6001005009",
+        "des": "桃園市八德區",
+        "eng": "Bade District, Taoyuan City"
+      },
+      {
+        "no": "6001005010",
+        "des": "桃園市大溪區",
+        "eng": "Daxi District, Taoyuan City"
+      },
+      {
+        "no": "6001005011",
+        "des": "桃園市復興區",
+        "eng": "Fuxing District, Taoyuan City"
+      },
+      {
+        "no": "6001005012",
+        "des": "桃園市大園區",
+        "eng": "Dayuan District, Taoyuan City"
+      },
+      {
+        "no": "6001005013",
+        "des": "桃園市蘆竹區",
+        "eng": "Luzhu District, Taoyuan City"
+      }
+    ],
+    "eng": "Taoyuan City"
+  },
+  {
+    "no": "6001006000",
+    "des": "新竹縣市",
+    "n": [
+      {
+        "no": "6001006001",
+        "des": "新竹市",
+        "eng": "Hsinchu City"
+      },
+      {
+        "no": "6001006002",
+        "des": "新竹縣竹北市",
+        "eng": "Zhubei City, Hsinchu County"
+      },
+      {
+        "no": "6001006003",
+        "des": "新竹縣湖口鄉",
+        "eng": "Hukou Township, Hsinchu County"
+      },
+      {
+        "no": "6001006004",
+        "des": "新竹縣新豐鄉",
+        "eng": "Xinfeng Township, Hsinchu County"
+      },
+      {
+        "no": "6001006005",
+        "des": "新竹縣新埔鎮",
+        "eng": "Sinpu Township, Hsinchu County"
+      },
+      {
+        "no": "6001006006",
+        "des": "新竹縣關西鎮",
+        "eng": "Guanshi Township, Hsinchu County"
+      },
+      {
+        "no": "6001006007",
+        "des": "新竹縣芎林鄉",
+        "eng": "Qionglin Township, Hsinchu County"
+      },
+      {
+        "no": "6001006008",
+        "des": "新竹縣寶山鄉",
+        "eng": "Baoshan Township, Hsinchu County"
+      },
+      {
+        "no": "6001006009",
+        "des": "新竹縣竹東鎮",
+        "eng": "Zhudong Township, Hsinchu County"
+      },
+      {
+        "no": "6001006010",
+        "des": "新竹縣五峰鄉",
+        "eng": "Wufeng Township, Hsinchu County"
+      },
+      {
+        "no": "6001006011",
+        "des": "新竹縣橫山鄉",
+        "eng": "Hengshan Township, Hsinchu County"
+      },
+      {
+        "no": "6001006012",
+        "des": "新竹縣尖石鄉",
+        "eng": "Jianshi Township, Hsinchu County"
+      },
+      {
+        "no": "6001006013",
+        "des": "新竹縣北埔鄉",
+        "eng": "Beipu Township, Hsinchu County"
+      },
+      {
+        "no": "6001006014",
+        "des": "新竹縣峨眉鄉",
+        "eng": "Emei Township, Hsinchu County"
+      }
+    ],
+    "eng": "Hsinchu County and City"
+  },
+  {
+    "no": "6001007000",
+    "des": "苗栗縣",
+    "n": [
+      {
+        "no": "6001007001",
+        "des": "苗栗縣竹南鎮",
+        "eng": "Zhunan Township, Miaoli County"
+      },
+      {
+        "no": "6001007002",
+        "des": "苗栗縣頭份市",
+        "eng": "Toufen City, Miaoli County"
+      },
+      {
+        "no": "6001007003",
+        "des": "苗栗縣三灣鄉",
+        "eng": "Sanwan Township, Miaoli County"
+      },
+      {
+        "no": "6001007004",
+        "des": "苗栗縣南庄鄉",
+        "eng": "Nanzhuang Township, Miaoli County"
+      },
+      {
+        "no": "6001007005",
+        "des": "苗栗縣獅潭鄉",
+        "eng": "Shitan Township, Miaoli County"
+      },
+      {
+        "no": "6001007006",
+        "des": "苗栗縣後龍鎮",
+        "eng": "Houlong Township, Miaoli County"
+      },
+      {
+        "no": "6001007007",
+        "des": "苗栗縣通霄鎮",
+        "eng": "Tongxiao Township, Miaoli County"
+      },
+      {
+        "no": "6001007008",
+        "des": "苗栗縣苑裡鎮",
+        "eng": "Yuanli Township, Miaoli County"
+      },
+      {
+        "no": "6001007009",
+        "des": "苗栗縣苗栗市",
+        "eng": "Miaoli City, Miaoli County"
+      },
+      {
+        "no": "6001007010",
+        "des": "苗栗縣造橋鄉",
+        "eng": "Zaoqiao Township, Miaoli County"
+      },
+      {
+        "no": "6001007011",
+        "des": "苗栗縣頭屋鄉",
+        "eng": "Touwu Township, Miaoli County"
+      },
+      {
+        "no": "6001007012",
+        "des": "苗栗縣公館鄉",
+        "eng": "Gongguan Township, Miaoli County"
+      },
+      {
+        "no": "6001007013",
+        "des": "苗栗縣大湖鄉",
+        "eng": "Dahu Township, Miaoli County"
+      },
+      {
+        "no": "6001007014",
+        "des": "苗栗縣泰安鄉",
+        "eng": "Taian Township, Miaoli County"
+      },
+      {
+        "no": "6001007015",
+        "des": "苗栗縣銅鑼鄉",
+        "eng": "Tongluo Township, Miaoli County"
+      },
+      {
+        "no": "6001007016",
+        "des": "苗栗縣三義鄉",
+        "eng": "Sanyi Township, Miaoli County"
+      },
+      {
+        "no": "6001007017",
+        "des": "苗栗縣西湖鄉",
+        "eng": "Xihu Township, Miaoli County"
+      },
+      {
+        "no": "6001007018",
+        "des": "苗栗縣卓蘭鎮",
+        "eng": "Zhuolan Township, Miaoli County"
+      }
+    ],
+    "eng": "Miaoli County"
+  },
+  {
+    "no": "6001008000",
+    "des": "台中市",
+    "n": [
+      {
+        "no": "6001008001",
+        "des": "台中市中區",
+        "eng": "Central District, Taichung City"
+      },
+      {
+        "no": "6001008002",
+        "des": "台中市東區",
+        "eng": "East District, Taichung City"
+      },
+      {
+        "no": "6001008003",
+        "des": "台中市南區",
+        "eng": "South District, Taichung City"
+      },
+      {
+        "no": "6001008004",
+        "des": "台中市西區",
+        "eng": "West District, Taichung City"
+      },
+      {
+        "no": "6001008005",
+        "des": "台中市北區",
+        "eng": "North District, Taichung City"
+      },
+      {
+        "no": "6001008006",
+        "des": "台中市北屯區",
+        "eng": "Beitun District, Taichung City"
+      },
+      {
+        "no": "6001008007",
+        "des": "台中市西屯區",
+        "eng": "Xitun District, Taichung City"
+      },
+      {
+        "no": "6001008008",
+        "des": "台中市南屯區",
+        "eng": "Nantun District, Taichung City"
+      },
+      {
+        "no": "6001008009",
+        "des": "台中市太平區",
+        "eng": "Taiping District, Taichung City"
+      },
+      {
+        "no": "6001008010",
+        "des": "台中市大里區",
+        "eng": "Dali District, Taichung City"
+      },
+      {
+        "no": "6001008011",
+        "des": "台中市霧峰區",
+        "eng": "Wufeng District, Taichung City"
+      },
+      {
+        "no": "6001008012",
+        "des": "台中市烏日區",
+        "eng": "Wuri District, Taichung City"
+      },
+      {
+        "no": "6001008013",
+        "des": "台中市豐原區",
+        "eng": "Fengyuan District, Taichung City"
+      },
+      {
+        "no": "6001008014",
+        "des": "台中市后里區",
+        "eng": "Houli District, Taichung City"
+      },
+      {
+        "no": "6001008015",
+        "des": "台中市石岡區",
+        "eng": "Shigang District, Taichung City"
+      },
+      {
+        "no": "6001008016",
+        "des": "台中市東勢區",
+        "eng": "Dongshi District, Taichung City"
+      },
+      {
+        "no": "6001008017",
+        "des": "台中市和平區",
+        "eng": "Heping District, Taichung City"
+      },
+      {
+        "no": "6001008018",
+        "des": "台中市新社區",
+        "eng": "Xinshe District, Taichung City"
+      },
+      {
+        "no": "6001008019",
+        "des": "台中市潭子區",
+        "eng": "Tanzi District, Taichung City"
+      },
+      {
+        "no": "6001008020",
+        "des": "台中市大雅區",
+        "eng": "Daya District, Taichung City"
+      },
+      {
+        "no": "6001008021",
+        "des": "台中市神岡區",
+        "eng": "Shengang District, Taichung City"
+      },
+      {
+        "no": "6001008022",
+        "des": "台中市大肚區",
+        "eng": "Dadu District, Taichung City"
+      },
+      {
+        "no": "6001008023",
+        "des": "台中市沙鹿區",
+        "eng": "Shalu District, Taichung City"
+      },
+      {
+        "no": "6001008024",
+        "des": "台中市龍井區",
+        "eng": "Longjing District, Taichung City"
+      },
+      {
+        "no": "6001008025",
+        "des": "台中市梧棲區",
+        "eng": "Wuqi District, Taichung City"
+      },
+      {
+        "no": "6001008026",
+        "des": "台中市清水區",
+        "eng": "Qingshui District, Taichung City"
+      },
+      {
+        "no": "6001008027",
+        "des": "台中市大甲區",
+        "eng": "Dajia District, Taichung City"
+      },
+      {
+        "no": "6001008028",
+        "des": "台中市外埔區",
+        "eng": "Waipu District, Taichung City"
+      },
+      {
+        "no": "6001008029",
+        "des": "台中市大安區",
+        "eng": "Daan District, Taichung City"
+      }
+    ],
+    "eng": "Taichung City"
+  },
+  {
+    "no": "6001010000",
+    "des": "彰化縣",
+    "n": [
+      {
+        "no": "6001010001",
+        "des": "彰化縣彰化市",
+        "eng": "Changhua City, Changhua County"
+      },
+      {
+        "no": "6001010002",
+        "des": "彰化縣芬園鄉",
+        "eng": "Fenyuan Township, Changhua County"
+      },
+      {
+        "no": "6001010003",
+        "des": "彰化縣花壇鄉",
+        "eng": "Huatan Township, Changhua County"
+      },
+      {
+        "no": "6001010004",
+        "des": "彰化縣秀水鄉",
+        "eng": "Xiushui Township, Changhua County"
+      },
+      {
+        "no": "6001010005",
+        "des": "彰化縣鹿港鎮",
+        "eng": "Lukang Township, Changhua County"
+      },
+      {
+        "no": "6001010006",
+        "des": "彰化縣福興鄉",
+        "eng": "Fuxing Township, Changhua County"
+      },
+      {
+        "no": "6001010007",
+        "des": "彰化縣線西鄉",
+        "eng": "Xianxi Township, Changhua County"
+      },
+      {
+        "no": "6001010008",
+        "des": "彰化縣和美鎮",
+        "eng": "Hemei Township, Changhua County"
+      },
+      {
+        "no": "6001010009",
+        "des": "彰化縣伸港鄉",
+        "eng": "Shengang Township, Changhua County"
+      },
+      {
+        "no": "6001010010",
+        "des": "彰化縣員林市",
+        "eng": "Yuanlin City, Changhua County"
+      },
+      {
+        "no": "6001010011",
+        "des": "彰化縣社頭鄉",
+        "eng": "Shetou Township, Changhua County"
+      },
+      {
+        "no": "6001010012",
+        "des": "彰化縣永靖鄉",
+        "eng": "Yongjing Township, Changhua County"
+      },
+      {
+        "no": "6001010013",
+        "des": "彰化縣埔心鄉",
+        "eng": "Puxin Township, Changhua County"
+      },
+      {
+        "no": "6001010014",
+        "des": "彰化縣溪湖鎮",
+        "eng": "Xihu Township, Changhua County"
+      },
+      {
+        "no": "6001010015",
+        "des": "彰化縣大村鄉",
+        "eng": "Dacun Township, Changhua County"
+      },
+      {
+        "no": "6001010016",
+        "des": "彰化縣埔鹽鄉",
+        "eng": "Puyan Township, Changhua County"
+      },
+      {
+        "no": "6001010017",
+        "des": "彰化縣田中鎮",
+        "eng": "Tianzhong Township, Changhua County"
+      },
+      {
+        "no": "6001010018",
+        "des": "彰化縣北斗鎮",
+        "eng": "Beidou Township, Changhua County"
+      },
+      {
+        "no": "6001010019",
+        "des": "彰化縣田尾鄉",
+        "eng": "Tianwei Township, Changhua County"
+      },
+      {
+        "no": "6001010020",
+        "des": "彰化縣埤頭鄉",
+        "eng": "Pitou Township, Changhua County"
+      },
+      {
+        "no": "6001010021",
+        "des": "彰化縣溪州鄉",
+        "eng": "Xizhou Township, Changhua County"
+      },
+      {
+        "no": "6001010022",
+        "des": "彰化縣竹塘鄉",
+        "eng": "Zhutang Township, Changhua County"
+      },
+      {
+        "no": "6001010023",
+        "des": "彰化縣二林鎮",
+        "eng": "Erlin Township, Changhua County"
+      },
+      {
+        "no": "6001010024",
+        "des": "彰化縣大城鄉",
+        "eng": "Dacheng Township, Changhua County"
+      },
+      {
+        "no": "6001010025",
+        "des": "彰化縣芳苑鄉",
+        "eng": "Fangyuan Township, Changhua County"
+      },
+      {
+        "no": "6001010026",
+        "des": "彰化縣二水鄉",
+        "eng": "Ershui Township, Changhua County"
+      }
+    ],
+    "eng": "Changhua County"
+  },
+  {
+    "no": "6001011000",
+    "des": "南投縣",
+    "n": [
+      {
+        "no": "6001011001",
+        "des": "南投縣南投市",
+        "eng": "Nantou City, Nantou County"
+      },
+      {
+        "no": "6001011002",
+        "des": "南投縣中寮鄉",
+        "eng": "Zhongliao Township, Nantou County"
+      },
+      {
+        "no": "6001011003",
+        "des": "南投縣草屯鎮",
+        "eng": "Caotun Township, Nantou County"
+      },
+      {
+        "no": "6001011004",
+        "des": "南投縣國姓鄉",
+        "eng": "Guoxing Township, Nantou County"
+      },
+      {
+        "no": "6001011005",
+        "des": "南投縣埔里鎮",
+        "eng": "Puli Township, Nantou County"
+      },
+      {
+        "no": "6001011006",
+        "des": "南投縣仁愛鄉",
+        "eng": "Renai Township, Nantou County"
+      },
+      {
+        "no": "6001011007",
+        "des": "南投縣名間鄉",
+        "eng": "Mingjian Township, Nantou County"
+      },
+      {
+        "no": "6001011008",
+        "des": "南投縣集集鎮",
+        "eng": "Jiji Township, Nantou County"
+      },
+      {
+        "no": "6001011009",
+        "des": "南投縣水里鄉",
+        "eng": "Shuili Township, Nantou County"
+      },
+      {
+        "no": "6001011010",
+        "des": "南投縣魚池鄉",
+        "eng": "Yuchi Township, Nantou County"
+      },
+      {
+        "no": "6001011011",
+        "des": "南投縣信義鄉",
+        "eng": "Xinyi Township, Nantou County"
+      },
+      {
+        "no": "6001011012",
+        "des": "南投縣竹山鎮",
+        "eng": "Zhuoshui Township, Nantou County"
+      },
+      {
+        "no": "6001011013",
+        "des": "南投縣鹿谷鄉",
+        "eng": "Lugu Township, Nantou County"
+      }
+    ],
+    "eng": "Nantou County"
+  },
+  {
+    "no": "6001012000",
+    "des": "雲林縣",
+    "n": [
+      {
+        "no": "6001012001",
+        "des": "雲林縣斗南鎮",
+        "eng": "Dounan Township, Yunlin County"
+      },
+      {
+        "no": "6001012002",
+        "des": "雲林縣大埤鄉",
+        "eng": "Dapi Township, Yunlin County"
+      },
+      {
+        "no": "6001012003",
+        "des": "雲林縣虎尾鎮",
+        "eng": "Huwei Township, Yunlin County"
+      },
+      {
+        "no": "6001012004",
+        "des": "雲林縣土庫鎮",
+        "eng": "Tuku Township, Yunlin County"
+      },
+      {
+        "no": "6001012005",
+        "des": "雲林縣褒忠鄉",
+        "eng": "Baozhong Township, Yunlin County"
+      },
+      {
+        "no": "6001012006",
+        "des": "雲林縣東勢鄉",
+        "eng": "Dongshi Township, Yunlin County"
+      },
+      {
+        "no": "6001012007",
+        "des": "雲林縣台西鄉",
+        "eng": "Taihsi Township, Yunlin County"
+      },
+      {
+        "no": "6001012008",
+        "des": "雲林縣崙背鄉",
+        "eng": "Lunbei Township, Yunlin County"
+      },
+      {
+        "no": "6001012009",
+        "des": "雲林縣麥寮鄉",
+        "eng": "Mailiao Township, Yunlin County"
+      },
+      {
+        "no": "6001012010",
+        "des": "雲林縣斗六市",
+        "eng": "Douliu City, Yunlin County"
+      },
+      {
+        "no": "6001012011",
+        "des": "雲林縣林內鄉",
+        "eng": "Linnei Township, Yunlin County"
+      },
+      {
+        "no": "6001012012",
+        "des": "雲林縣古坑鄉",
+        "eng": "Gukeng Township, Yunlin County"
+      },
+      {
+        "no": "6001012013",
+        "des": "雲林縣莿桐鄉",
+        "eng": "Cetung Township, Yunlin County"
+      },
+      {
+        "no": "6001012014",
+        "des": "雲林縣西螺鎮",
+        "eng": "Xiluo Township, Yunlin County"
+      },
+      {
+        "no": "6001012015",
+        "des": "雲林縣二崙鄉",
+        "eng": "Erren Township, Yunlin County"
+      },
+      {
+        "no": "6001012016",
+        "des": "雲林縣北港鎮",
+        "eng": "Beigang Township, Yunlin County"
+      },
+      {
+        "no": "6001012017",
+        "des": "雲林縣水林鄉",
+        "eng": "Shuilin Township, Yunlin County"
+      },
+      {
+        "no": "6001012018",
+        "des": "雲林縣口湖鄉",
+        "eng": "Kouhu Township, Yunlin County"
+      },
+      {
+        "no": "6001012019",
+        "des": "雲林縣四湖鄉",
+        "eng": "Sihu Township, Yunlin County"
+      },
+      {
+        "no": "6001012020",
+        "des": "雲林縣元長鄉",
+        "eng": "Yunlin County, Yulin Township"
+      }
+    ],
+    "eng": "Yunlin County"
+  },
+  {
+    "no": "6001013000",
+    "des": "嘉義縣市",
+    "n": [
+      {
+        "no": "6001013001",
+        "des": "嘉義市",
+        "eng": "Chiayi City"
+      },
+      {
+        "no": "6001013002",
+        "des": "嘉義縣番路鄉",
+        "eng": "Fanlu Township, Chiayi County"
+      },
+      {
+        "no": "6001013003",
+        "des": "嘉義縣梅山鄉",
+        "eng": "Meishan Township, Chiayi County"
+      },
+      {
+        "no": "6001013004",
+        "des": "嘉義縣竹崎鄉",
+        "eng": "Jhuqi Township, Chiayi County"
+      },
+      {
+        "no": "6001013005",
+        "des": "嘉義縣阿里山鄉",
+        "eng": "Alishan Township, Chiayi County"
+      },
+      {
+        "no": "6001013006",
+        "des": "嘉義縣中埔鄉",
+        "eng": "Zhongpu Township, Chiayi County"
+      },
+      {
+        "no": "6001013007",
+        "des": "嘉義縣大埔鄉",
+        "eng": "Dapu Township, Chiayi County"
+      },
+      {
+        "no": "6001013008",
+        "des": "嘉義縣水上鄉",
+        "eng": "Shuishang Township, Chiayi County"
+      },
+      {
+        "no": "6001013009",
+        "des": "嘉義縣鹿草鄉",
+        "eng": "Lucao Township, Chiayi County"
+      },
+      {
+        "no": "6001013010",
+        "des": "嘉義縣太保市",
+        "eng": "Taibao City, Chiayi County"
+      },
+      {
+        "no": "6001013011",
+        "des": "嘉義縣朴子市",
+        "eng": "Puzi City, Chiayi County"
+      },
+      {
+        "no": "6001013012",
+        "des": "嘉義縣東石鄉",
+        "eng": "Dongshi Township, Chiayi County"
+      },
+      {
+        "no": "6001013013",
+        "des": "嘉義縣六腳鄉",
+        "eng": "Liujiao Township, Chiayi County"
+      },
+      {
+        "no": "6001013014",
+        "des": "嘉義縣新港鄉",
+        "eng": "Xingang Township, Chiayi County"
+      },
+      {
+        "no": "6001013015",
+        "des": "嘉義縣民雄鄉",
+        "eng": "Minxiong Township, Chiayi County"
+      },
+      {
+        "no": "6001013016",
+        "des": "嘉義縣大林鎮",
+        "eng": "Dalin Township, Chiayi County"
+      },
+      {
+        "no": "6001013017",
+        "des": "嘉義縣溪口鄉",
+        "eng": "Xikou Township, Chiayi County"
+      },
+      {
+        "no": "6001013018",
+        "des": "嘉義縣義竹鄉",
+        "eng": "Yizhu Township, Chiayi County"
+      },
+      {
+        "no": "6001013019",
+        "des": "嘉義縣布袋鎮",
+        "eng": "Budai Township, Chiayi County"
+      }
+    ],
+    "eng": "Chiayi County and City"
+  },
+  {
+    "no": "6001014000",
+    "des": "台南市",
+    "n": [
+      {
+        "no": "6001014001",
+        "des": "台南市中西區",
+        "eng": "Central and Western District, Tainan City"
+      },
+      {
+        "no": "6001014002",
+        "des": "台南市東區",
+        "eng": "East District, Tainan City"
+      },
+      {
+        "no": "6001014003",
+        "des": "台南市南區",
+        "eng": "South District, Tainan City"
+      },
+      {
+        "no": "6001014004",
+        "des": "台南市北區",
+        "eng": "North District, Tainan City"
+      },
+      {
+        "no": "6001014005",
+        "des": "台南市安平區",
+        "eng": "Anping District, Tainan City"
+      },
+      {
+        "no": "6001014006",
+        "des": "台南市安南區",
+        "eng": "Annan District, Tainan City"
+      },
+      {
+        "no": "6001014007",
+        "des": "台南市永康區",
+        "eng": "Yongkang District, Tainan City"
+      },
+      {
+        "no": "6001014008",
+        "des": "台南市歸仁區",
+        "eng": "Guiren District, Tainan City"
+      },
+      {
+        "no": "6001014009",
+        "des": "台南市新化區",
+        "eng": "Xinhua District, Tainan City"
+      },
+      {
+        "no": "6001014010",
+        "des": "台南市左鎮區",
+        "eng": "Zuozhen District, Tainan City"
+      },
+      {
+        "no": "6001014011",
+        "des": "台南市玉井區",
+        "eng": "Yujing District, Tainan City"
+      },
+      {
+        "no": "6001014012",
+        "des": "台南市楠西區",
+        "eng": "Nanxi District, Tainan City"
+      },
+      {
+        "no": "6001014013",
+        "des": "台南市南化區",
+        "eng": "Nanhua District, Tainan City"
+      },
+      {
+        "no": "6001014014",
+        "des": "台南市仁德區",
+        "eng": "Rende District, Tainan City"
+      },
+      {
+        "no": "6001014015",
+        "des": "台南市關廟區",
+        "eng": "Guanmiao District, Tainan City"
+      },
+      {
+        "no": "6001014016",
+        "des": "台南市龍崎區",
+        "eng": "Longqi District, Tainan City"
+      },
+      {
+        "no": "6001014017",
+        "des": "台南市官田區",
+        "eng": "Guantian District, Tainan City"
+      },
+      {
+        "no": "6001014018",
+        "des": "台南市麻豆區",
+        "eng": "Madou District, Tainan City"
+      },
+      {
+        "no": "6001014019",
+        "des": "台南市佳里區",
+        "eng": "Jiali District, Tainan City"
+      },
+      {
+        "no": "6001014020",
+        "des": "台南市西港區",
+        "eng": "Xigang District, Tainan City"
+      },
+      {
+        "no": "6001014021",
+        "des": "台南市七股區",
+        "eng": "Qigu District, Tainan City"
+      },
+      {
+        "no": "6001014022",
+        "des": "台南市將軍區",
+        "eng": "Jiangjun District, Tainan City"
+      },
+      {
+        "no": "6001014023",
+        "des": "台南市學甲區",
+        "eng": "Xuejia District, Tainan City"
+      },
+      {
+        "no": "6001014024",
+        "des": "台南市北門區",
+        "eng": "Beimen District, Tainan City"
+      },
+      {
+        "no": "6001014025",
+        "des": "台南市新營區",
+        "eng": "Xinying District, Tainan City"
+      },
+      {
+        "no": "6001014026",
+        "des": "台南市後壁區",
+        "eng": "Houbi District, Tainan City"
+      },
+      {
+        "no": "6001014027",
+        "des": "台南市白河區",
+        "eng": "Baihe District, Tainan City"
+      },
+      {
+        "no": "6001014028",
+        "des": "台南市東山區",
+        "eng": "Dongshan District, Tainan City"
+      },
+      {
+        "no": "6001014029",
+        "des": "台南市六甲區",
+        "eng": "Liujia District, Tainan City"
+      },
+      {
+        "no": "6001014030",
+        "des": "台南市下營區",
+        "eng": "Xiaying District, Tainan City"
+      },
+      {
+        "no": "6001014031",
+        "des": "台南市柳營區",
+        "eng": "Liuying District, Tainan City"
+      },
+      {
+        "no": "6001014032",
+        "des": "台南市鹽水區",
+        "eng": "Yanshui District, Tainan City"
+      },
+      {
+        "no": "6001014033",
+        "des": "台南市善化區",
+        "eng": "Shanhua District, Tainan City"
+      },
+      {
+        "no": "6001014034",
+        "des": "台南市大內區",
+        "eng": "Danei District, Tainan City"
+      },
+      {
+        "no": "6001014035",
+        "des": "台南市山上區",
+        "eng": "Shanshang District, Tainan City"
+      },
+      {
+        "no": "6001014036",
+        "des": "台南市新市區",
+        "eng": "Xinshi District, Tainan City"
+      },
+      {
+        "no": "6001014037",
+        "des": "台南市安定區",
+        "eng": "Anding District, Tainan City"
+      }
+    ],
+    "eng": "Tainan City"
+  },
+  {
+    "no": "6001016000",
+    "des": "高雄市",
+    "n": [
+      {
+        "no": "6001016001",
+        "des": "高雄市新興區",
+        "eng": "Xinxing District, Kaohsiung City"
+      },
+      {
+        "no": "6001016002",
+        "des": "高雄市前金區",
+        "eng": "Qianjin District, Kaohsiung City"
+      },
+      {
+        "no": "6001016003",
+        "des": "高雄市苓雅區",
+        "eng": "Lingya District, Kaohsiung City"
+      },
+      {
+        "no": "6001016004",
+        "des": "高雄市鹽埕區",
+        "eng": "Yancheng District, Kaohsiung City"
+      },
+      {
+        "no": "6001016005",
+        "des": "高雄市鼓山區",
+        "eng": "Gushan District, Kaohsiung City"
+      },
+      {
+        "no": "6001016006",
+        "des": "高雄市旗津區",
+        "eng": "Qijin District, Kaohsiung City"
+      },
+      {
+        "no": "6001016007",
+        "des": "高雄市前鎮區",
+        "eng": "Qianzhen District, Kaohsiung City"
+      },
+      {
+        "no": "6001016008",
+        "des": "高雄市三民區",
+        "eng": "Sanmin District, Kaohsiung City"
+      },
+      {
+        "no": "6001016009",
+        "des": "高雄市楠梓區",
+        "eng": "Nanzi District, Kaohsiung City"
+      },
+      {
+        "no": "6001016010",
+        "des": "高雄市小港區",
+        "eng": "Xiaogang District, Kaohsiung City"
+      },
+      {
+        "no": "6001016011",
+        "des": "高雄市左營區",
+        "eng": "Zuoying District, Kaohsiung City"
+      },
+      {
+        "no": "6001016012",
+        "des": "高雄市仁武區",
+        "eng": "Renwu District, Kaohsiung City"
+      },
+      {
+        "no": "6001016013",
+        "des": "高雄市大社區",
+        "eng": "Dashe District, Kaohsiung City"
+      },
+      {
+        "no": "6001016014",
+        "des": "高雄市岡山區",
+        "eng": "Gangshan District, Kaohsiung City"
+      },
+      {
+        "no": "6001016015",
+        "des": "高雄市路竹區",
+        "eng": "Luzhu District, Kaohsiung City"
+      },
+      {
+        "no": "6001016016",
+        "des": "高雄市阿蓮區",
+        "eng": "Alian District, Kaohsiung City"
+      },
+      {
+        "no": "6001016017",
+        "des": "高雄市田寮區",
+        "eng": "Tianliao District, Kaohsiung City"
+      },
+      {
+        "no": "6001016018",
+        "des": "高雄市燕巢區",
+        "eng": "Yanchao District, Kaohsiung City"
+      },
+      {
+        "no": "6001016019",
+        "des": "高雄市橋頭區",
+        "eng": "Qiaotou District, Kaohsiung City"
+      },
+      {
+        "no": "6001016020",
+        "des": "高雄市梓官區",
+        "eng": "Ziguan District, Kaohsiung City"
+      },
+      {
+        "no": "6001016021",
+        "des": "高雄市彌陀區",
+        "eng": "Mituo District, Kaohsiung City"
+      },
+      {
+        "no": "6001016022",
+        "des": "高雄市永安區",
+        "eng": "Yongan District, Kaohsiung City"
+      },
+      {
+        "no": "6001016023",
+        "des": "高雄市湖內區",
+        "eng": "Hunei District, Kaohsiung City"
+      },
+      {
+        "no": "6001016024",
+        "des": "高雄市鳳山區",
+        "eng": "Fengshan District, Kaohsiung City"
+      },
+      {
+        "no": "6001016025",
+        "des": "高雄市大寮區",
+        "eng": "Daliao District, Kaohsiung City"
+      },
+      {
+        "no": "6001016026",
+        "des": "高雄市林園區",
+        "eng": "Linyuan District, Kaohsiung City"
+      },
+      {
+        "no": "6001016027",
+        "des": "高雄市鳥松區",
+        "eng": "Niaosong District, Kaohsiung City"
+      },
+      {
+        "no": "6001016028",
+        "des": "高雄市大樹區",
+        "eng": "Dashu District, Kaohsiung City"
+      },
+      {
+        "no": "6001016029",
+        "des": "高雄市旗山區",
+        "eng": "Qishan District, Kaohsiung City"
+      },
+      {
+        "no": "6001016030",
+        "des": "高雄市美濃區",
+        "eng": "Meinong District, Kaohsiung City"
+      },
+      {
+        "no": "6001016031",
+        "des": "高雄市六龜區",
+        "eng": "Liugui District, Kaohsiung City"
+      },
+      {
+        "no": "6001016032",
+        "des": "高雄市內門區",
+        "eng": "Neimen District, Kaohsiung City"
+      },
+      {
+        "no": "6001016033",
+        "des": "高雄市杉林區",
+        "eng": "Shanlin District, Kaohsiung City"
+      },
+      {
+        "no": "6001016034",
+        "des": "高雄市甲仙區",
+        "eng": "Jiaxian District, Kaohsiung City"
+      },
+      {
+        "no": "6001016035",
+        "des": "高雄市桃源區",
+        "eng": "Taoyuan District, Kaohsiung City"
+      },
+      {
+        "no": "6001016036",
+        "des": "高雄市那瑪夏區",
+        "eng": "Namaxia District, Kaohsiung City"
+      },
+      {
+        "no": "6001016037",
+        "des": "高雄市茂林區",
+        "eng": "Maolin District, Kaohsiung City"
+      },
+      {
+        "no": "6001016038",
+        "des": "高雄市茄萣區",
+        "eng": "Qieding District, Kaohsiung City"
+      }
+    ],
+    "eng": "Kaohsiung City"
+  },
+  {
+    "no": "6001018000",
+    "des": "屏東縣",
+    "n": [
+      {
+        "no": "6001018001",
+        "des": "屏東縣屏東市",
+        "eng": ""
+      },
+      {
+        "no": "6001018002",
+        "des": "屏東縣三地門鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018003",
+        "des": "屏東縣霧台鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018004",
+        "des": "屏東縣瑪家鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018005",
+        "des": "屏東縣九如鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018006",
+        "des": "屏東縣里港鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018007",
+        "des": "屏東縣高樹鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018008",
+        "des": "屏東縣鹽埔鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018009",
+        "des": "屏東縣長治鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018010",
+        "des": "屏東縣麟洛鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018011",
+        "des": "屏東縣竹田鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018012",
+        "des": "屏東縣內埔鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018013",
+        "des": "屏東縣萬丹鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018014",
+        "des": "屏東縣潮州鎮",
+        "eng": ""
+      },
+      {
+        "no": "6001018015",
+        "des": "屏東縣泰武鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018016",
+        "des": "屏東縣來義鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018017",
+        "des": "屏東縣萬巒鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018018",
+        "des": "屏東縣崁頂鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018019",
+        "des": "屏東縣新埤鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018020",
+        "des": "屏東縣南州鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018021",
+        "des": "屏東縣林邊鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018022",
+        "des": "屏東縣東港鎮",
+        "eng": ""
+      },
+      {
+        "no": "6001018023",
+        "des": "屏東縣琉球鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018024",
+        "des": "屏東縣佳冬鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018025",
+        "des": "屏東縣新園鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018026",
+        "des": "屏東縣枋寮鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018027",
+        "des": "屏東縣枋山鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018028",
+        "des": "屏東縣春日鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018029",
+        "des": "屏東縣獅子鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018030",
+        "des": "屏東縣車城鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018031",
+        "des": "屏東縣牡丹鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001018032",
+        "des": "屏東縣恆春鎮",
+        "eng": ""
+      },
+      {
+        "no": "6001018033",
+        "des": "屏東縣滿州鄉",
+        "eng": ""
+      }
+    ],
+    "eng": ""
+  },
+  {
+    "no": "6001019000",
+    "des": "台東縣",
+    "n": [
+      {
+        "no": "6001019001",
+        "des": "台東縣台東市",
+        "eng": ""
+      },
+      {
+        "no": "6001019002",
+        "des": "台東縣綠島鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001019003",
+        "des": "台東縣蘭嶼鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001019004",
+        "des": "台東縣延平鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001019005",
+        "des": "台東縣卑南鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001019006",
+        "des": "台東縣鹿野鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001019007",
+        "des": "台東縣關山鎮",
+        "eng": ""
+      },
+      {
+        "no": "6001019008",
+        "des": "台東縣海端鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001019009",
+        "des": "台東縣池上鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001019010",
+        "des": "台東縣東河鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001019011",
+        "des": "台東縣成功鎮",
+        "eng": ""
+      },
+      {
+        "no": "6001019012",
+        "des": "台東縣長濱鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001019013",
+        "des": "台東縣太麻里鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001019014",
+        "des": "台東縣金峰鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001019015",
+        "des": "台東縣大武鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001019016",
+        "des": "台東縣達仁鄉",
+        "eng": ""
+      }
+    ],
+    "eng": ""
+  },
+  {
+    "no": "6001020000",
+    "des": "花蓮縣",
+    "n": [
+      {
+        "no": "6001020001",
+        "des": "花蓮縣花蓮市",
+        "eng": ""
+      },
+      {
+        "no": "6001020002",
+        "des": "花蓮縣新城鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001020003",
+        "des": "花蓮縣秀林鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001020004",
+        "des": "花蓮縣吉安鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001020005",
+        "des": "花蓮縣壽豐鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001020006",
+        "des": "花蓮縣鳳林鎮",
+        "eng": ""
+      },
+      {
+        "no": "6001020007",
+        "des": "花蓮縣光復鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001020008",
+        "des": "花蓮縣豐濱鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001020009",
+        "des": "花蓮縣瑞穗鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001020010",
+        "des": "花蓮縣萬榮鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001020011",
+        "des": "花蓮縣玉里鎮",
+        "eng": ""
+      },
+      {
+        "no": "6001020012",
+        "des": "花蓮縣卓溪鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001020013",
+        "des": "花蓮縣富里鄉",
+        "eng": ""
+      }
+    ],
+    "eng": ""
+  },
+  {
+    "no": "6001021000",
+    "des": "澎湖縣",
+    "n": [
+      {
+        "no": "6001021001",
+        "des": "澎湖縣馬公市",
+        "eng": ""
+      },
+      {
+        "no": "6001021002",
+        "des": "澎湖縣西嶼鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001021003",
+        "des": "澎湖縣望安鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001021004",
+        "des": "澎湖縣七美鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001021005",
+        "des": "澎湖縣白沙鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001021006",
+        "des": "澎湖縣湖西鄉",
+        "eng": ""
+      }
+    ],
+    "eng": ""
+  },
+  {
+    "no": "6001022000",
+    "des": "金門縣",
+    "n": [
+      {
+        "no": "6001022001",
+        "des": "金門縣金沙鎮",
+        "eng": ""
+      },
+      {
+        "no": "6001022002",
+        "des": "金門縣金湖鎮",
+        "eng": ""
+      },
+      {
+        "no": "6001022003",
+        "des": "金門縣金寧鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001022004",
+        "des": "金門縣金城鎮",
+        "eng": ""
+      },
+      {
+        "no": "6001022005",
+        "des": "金門縣烈嶼鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001022006",
+        "des": "金門縣烏坵鄉",
+        "eng": ""
+      }
+    ],
+    "eng": ""
+  },
+  {
+    "no": "6001023000",
+    "des": "連江縣",
+    "n": [
+      {
+        "no": "6001023001",
+        "des": "連江縣南竿鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001023002",
+        "des": "連江縣北竿鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001023003",
+        "des": "連江縣莒光鄉",
+        "eng": ""
+      },
+      {
+        "no": "6001023004",
+        "des": "連江縣東引鄉",
+        "eng": ""
+      }
+    ],
+    "eng": ""
+  }
+]
